@@ -15,3 +15,5 @@
 	* parse error indica erro de sintaxe
 	* `<?php` tag de abertura
 	* echo "" imprime uma saída
+ * Sistemas Operacionais
+ 	* Windows, Ubuntu Linux, MacOS
